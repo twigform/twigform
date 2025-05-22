@@ -27,8 +27,6 @@
 
 ###
 
-<div align="left">
-  ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=twiiig)
-</div>
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=twiiig&show_user=header&bg_color=282a36)
 
 ###
