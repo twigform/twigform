@@ -2,8 +2,12 @@
   <img src="https://cdn.discordapp.com/emojis/1374858531873882242.png" height="24" style="vertical-align: middle;" />
   Hello, hi!
   I'm twig! <img src="https://cdn.discordapp.com/emojis/1374858531873882242.png" height="24" style="vertical-align: middle;"/>
+  <br>
 </h2>
 
+<h6 align="center" style="margin: 0; padding: 0;">
+  (My name doesn't need to be capitalized!)
+</h6>
 
 ###
 
@@ -18,7 +22,7 @@
 <img src="https://skillicons.dev/icons?i=js,html,css,py,discord,vscode"/>
 </div>
 
-###
+---
 
 <div align="center">
   <img src="https://lastfm-recently-played.vercel.app/api?user=twiiig&show_user=header&bg_color=1e1e2e" alt="My scrobbles" />
