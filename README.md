@@ -1,9 +1,8 @@
-<h2 align="center">
+<h1 align="center">
   <img src="https://cdn.discordapp.com/emojis/1374858531873882242.png" height="24" style="vertical-align: middle;" />
   Hello, hi!
   I'm twig! <img src="https://cdn.discordapp.com/emojis/1374858531873882242.png" height="24" style="vertical-align: middle;"/>
-  <br>
-</h2>
+</h1>
 
 <h6 align="center" style="margin: 0; padding: 0;">
   (My name doesn't need to be capitalized!)
