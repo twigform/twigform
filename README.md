@@ -1,4 +1,9 @@
-<h2 align="center">Hello, hi! I'm twig!</h2>
+<h2 align="center">
+  <img src="https://cdn.discordapp.com/emojis/1374858531873882242.png" height="24" style="vertical-align: middle;" />
+  Hello, hi!
+  I'm twig! <img src="https://cdn.discordapp.com/emojis/1374858531873882242.png" height="24" style="vertical-align: middle;"/>
+</h2>
+
 
 ###
 
@@ -18,5 +23,3 @@
 <div align="center">
   <img src="https://lastfm-recently-played.vercel.app/api?user=twiiig&show_user=header&bg_color=1e1e2e" alt="My scrobbles" />
 </div>
-
-###
