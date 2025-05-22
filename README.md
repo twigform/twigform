@@ -23,10 +23,8 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:44eobdmkbgei5say6pr74bw2/bafkreiaxn73czcfzmtypjmooziaebw2qnn6rev5xcbcm6qm3ju5iegzyra@jpeg"  />
-
-###
-
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=twiiig&show_user=header&bg_color=282a36)
+<div align="center">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=twiiig&show_user=header&bg_color=282a36" alt="My scrobbles" />
+</div>
 
 ###
