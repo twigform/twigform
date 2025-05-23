@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=5&color=0:89b4fa,100:f38ba8"/>
+</p>
 <h1 align="center">
   <img src="https://cdn.discordapp.com/emojis/1374858531873882242.png" height="24" style="vertical-align: middle;" />
   Hello, hi!
@@ -30,3 +33,6 @@
 <div align="center">
   <sub><em>thanks for stopping by!</em></sub>
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=5&color=0:89b4fa,100:f38ba8"/>
+</p>
