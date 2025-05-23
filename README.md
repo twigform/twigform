@@ -26,3 +26,7 @@
 <div align="center">
   <img src="https://lastfm-recently-played.vercel.app/api?user=twiiig&show_user=header&bg_color=1e1e2e" alt="My scrobbles" />
 </div>
+
+<div align="center">
+  <sub><em>thanks for stopping by!</em></sub>
+</div>
