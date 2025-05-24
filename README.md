@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&height=5&color=0:89b4fa,100:f38ba8"/>
 </p>
 <h1 align="center">
-  <img src="https://cdn.discordapp.com/emojis/819591522235580446.webp?size=160&animated=true" height="24" style="vertical-align: middle;" />
+  <img src="https://cdn.discordapp.com/emojis/819591522235580446.webp?size=160&animated=true" height="34" style="vertical-align: middle;" />
   Hello, hi!
-  I'm twig! <img src="https://cdn.discordapp.com/emojis/819591496473772112.webp?size=160&animated=true" height="24" style="vertical-align: middle;"/>
+  I'm twig! <img src="https://cdn.discordapp.com/emojis/819591496473772112.webp?size=160&animated=true" height="34" style="vertical-align: middle;"/>
 </h1>
 
 <h6 align="center" style="margin: 0; padding: 0;">
