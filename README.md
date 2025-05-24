@@ -31,7 +31,9 @@
 </div>
 
 <div align="center">
-  <sub><em>thanks for stopping by!</em></sub>
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/alien-monster_1f47e.png" height="34" style="vertical-align: middle;" />
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/robot_1f916.png" height="34" style="vertical-align: middle;" />
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/ghost_1f47b.png" height="34" style="vertical-align: middle;" />
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=5&color=0:89b4fa,100:f38ba8"/>
