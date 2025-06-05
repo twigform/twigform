@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,svelte,tauri,py,discord,vscode,gamemakerstudio,figma"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,svelte,tauri,py,discord,vscode,gamemakerstudio,figma,arch"/>
 </div>
 
 ---
